@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main()
+{
+int i;
+int a[i]={1,2,3,4};
